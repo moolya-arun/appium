@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstAppiumProject/FirstAppiumProject.iml" filepath="$PROJECT_DIR$/FirstAppiumProject/FirstAppiumProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javaproject/Javaproject.iml" filepath="$PROJECT_DIR$/Javaproject/Javaproject.iml" />
+    </modules>
+  </component>
+</project>
